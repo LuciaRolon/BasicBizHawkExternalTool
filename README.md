@@ -6,7 +6,7 @@ This project is meant to be a very basic implementation based on the official [D
 
 # Building
 
-To build the project you will need [BizHawk 2.10](https://github.com/TASEmulators/BizHawk/releases/tag/2.10). 
+To build the project you will need [BizHawk 2.10](https://github.com/TASEmulators/BizHawk/releases/tag/2.10). You will also need [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) and Visual Studio 2022 or later.
 
  1. Extract the contents of the BizHawk build in a folder called BizHawk inside this project (at the same level of src). 
  2. Open the project in Visual Studio.
@@ -24,3 +24,4 @@ If you want to simplify the building process for this project, you can change th
  6. (Optionally) Click on the Profile, and press Change Profile Name to the Name you prefer.
  7. Close the Dialog and then go to the top where the execution button is, press the arrow next to it and select the profile you just created.
  8. Press Run and check that the Emulator opens correctly with the form.
+
