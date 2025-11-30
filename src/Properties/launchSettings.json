@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ExternalToolTest": {
+      "commandName": "Project"
+    },
+    "Build & Run": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Backup\\Randomizer\\ExternalToolTest\\BizHawk\\EmuHawk.exe",
+      "commandLineArgs": "--open-ext-tool-dll=ExternalToolTest"
+    }
+  }
+}
